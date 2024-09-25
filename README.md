@@ -3,6 +3,6 @@ vue-project front
 - npm install
 - npm run dev
 
-project
+project back
 - npm install
 - npm run start
